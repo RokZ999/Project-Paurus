@@ -1,4 +1,4 @@
-# Project Paurus interview project
+# Paurus interview project
 
 ## Requirements
 - Java SDK version 11
